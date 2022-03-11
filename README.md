@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vandasari
-- 👀 I’m interested in programming in Python and C, particularly for numerical methods, deep learning, and one-shot learning.
-- 🌱 I’m currently learning a lot of stuff. 
+- 👀 I’m interested in programming in Python and C, particularly for numerical methods, machine learning, deep learning, and few-shot learning.
+- 🌱 I’m currently working on GRN inference using machine learning. 
 - 💞️ I’m looking to collaborate on anything interesting. 
 - 📫 How to reach me: message me here or on LinkedIn.
 
