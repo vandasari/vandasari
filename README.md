@@ -1,6 +1,6 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
 - 👋 Hi, I’m @vandasari
 - 👀 I’m interested in programming in Python, Go, Rust, and C, particularly for numerical methods, machine learning, deep learning, and few-shot learning.
